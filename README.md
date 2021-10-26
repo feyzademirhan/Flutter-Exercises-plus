@@ -1,6 +1,6 @@
 # Flutter-Exercises
 
-It is a repository with exercises to add Logo, Header, Gif and button.
+It is a repository with exercises to add Logo, Header, Gif and button. + send back and navigate
 
 ## Getting Started
 
